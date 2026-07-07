@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there, I'm Arpit! 👋<br><br>A passionate B.Sc. IT (AI & Data Science) student dedicated to building intelligent systems, exploring cybersecurity, and developing impactful web applications.<br><br>## 💫 About Me<br><br>* 🔭 *I’m currently working on:* Developing full-stack web applications and training custom machine learning models.<br>* 👯 *I’m looking to collaborate on:* Open-source AI/ML projects, data analysis tasks, or smart IoT applications.<br>* 🤝 *I’m looking for help with:* Advanced cybersecurity frameworks and optimizing neural network architectures.<br>* 🌱 *I’m currently learning:* Deep learning techniques, advanced penetration testing, and cloud-based data engineering.<br>* 💬 *Ask me about:* Python, Java, relational databases, or building a web application from scratch.<br>* ⚡ *Fun fact:* I love blending technical logic with digital creativity through graphic design and animation!<br><br>---<br><br>## 🛠️ Tech Stack & Skills<br><br>### 🧠 Artificial Intelligence & Data Science<br>* *Core Focus:* Machine Learning, Artificial Intelligence, Data Analysis<br>* *Languages:* Python, Java<br>* *Databases:* MySQL, SQL<br><br>### 🌐 Web Development & Software Engineering<br>* *Frontend/Backend:* HTML, CSS, JavaScript, Core Web Development<br>* *Methodologies:* Software Engineering Principles, Data Structures & Algorithms<br><br>### 🔒 Security, IoT & Tools<br>* *Specializations:* Cybersecurity Vulnerability Assessments, Internet of Things (IoT)<br>* *Productivity Tools:* MS Excel, PowerPoint, VS Code
 
-<!--
-**arpitbhatnagar18-ux/arpitbhatnagar18-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Arpit Bhatnagarhttps://www.linkedin.com/in/arpit-bhatnagar-675735353?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpit_bhatnagar_) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Arpit Bhatnagar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitbhatnagar18102004@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arpitbhatnagar18-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arpitbhatnagar18-ux&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arpitbhatnagar18-ux&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arpitbhatnagar18-ux&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=arpitbhatnagar18-ux&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
